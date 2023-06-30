@@ -31,7 +31,6 @@ spring:
     # 로컬 DB 비밀번호
     password: 'myoung1249!'
 
-  driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
     # 뷰에서 엔티티를 사용할 수 있게 해줍니다.
